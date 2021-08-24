@@ -1,14 +1,17 @@
-<h1 align="center">I'm Umbra</h1>
-<h3 align="center">I'm doing god knows what.</h3>
+### Hi there 👋, Im Umbra
+#### I'm doing god knows what.
+![I'm doing god knows what.](https://i.imgur.com/l3nvo5d.gif)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=w3nga&label=Profile%20views&color=0e75b6&style=flat" alt="w3nga" /> </p>
+Focus on C# and Reverse Engineering
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=w3nga" alt="w3nga" /></a> </p>
+Skills: C#, C, C++, HTML
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=w3nga&show_icons=true&locale=en&layout=compact" alt="w3nga" /></p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Umbra999)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=w3nga&show_icons=true&locale=en" alt="w3nga" /></p>
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/Umbra999)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Profile views](https://gpvc.arturio.dev/https://github.com/Umbra999)  
