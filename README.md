@@ -3,8 +3,6 @@
 pip install bitches
 ```
 
-<a href="https://logout.space" target="_blank"> <img src="https://64.media.tumblr.com/7461849d06372219427696ad659250a6/tumblr_otnwlpIacK1wv27c8o1_500.gif"/></a>
-
 <img src="https://komarev.com/ghpvc/?username=umbra999&label=Profile%20Views&color=008042&style=flat&label=Visitors" alt="Visitors"></a>
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=008042&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Umbra999" alt="Profile Stars"></a>
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=008042&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Umbra999" alt="Profile Forks"></a>
