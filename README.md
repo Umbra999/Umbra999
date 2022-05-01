@@ -1,6 +1,6 @@
 <a href="https://logout.space" target="_blank"> <img src="https://cdn.discordapp.com/attachments/855072998796296212/970123406513168384/Umbra_Github.png" alt="Umbra's Github"/></a>
 ```sh-session
-pip install bitches
+pip install egirls
 ```
 
 <img src="https://komarev.com/ghpvc/?username=umbra999&label=Profile%20Views&color=008042&style=flat&label=Visitors" alt="Visitors"></a>
