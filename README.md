@@ -1,5 +1,11 @@
 ### Umbra  ![Profile views](https://gpvc.arturio.dev/Umbra999)  
 #### I'm doing god knows what.
+
+<a href="https://Cheataway.com" target="_blank"> <img src="https://cdn.discordapp.com/attachments/853347983639052318/857962898718720030/Rdimos_Github.png" alt="Umbra's Github"/></a>
+```sh-session
+pip install bitches
+```
+
 <a href="https://logout.space" target="_blank"> <img src="https://64.media.tumblr.com/7461849d06372219427696ad659250a6/tumblr_otnwlpIacK1wv27c8o1_500.gif"/></a>
 
 Main Focus on C# and Reverse Engineering
