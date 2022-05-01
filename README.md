@@ -6,7 +6,7 @@
 
 Main Focus on C# and Reverse Engineering
 
-<a href="https://logout.space" target="_blank"> <img src="https://discord.c99.nl/widget/theme-1/956976561234513990.png"/></a>
+<a href="https://logout.space" target="_blank"> <img src="https://discord.c99.nl/widget/theme-1/155552545782235137.png"/></a>
 <a href="https://logout.space" target="_blank"> <img src="https://discord.c99.nl/widget/theme-1/99546079980187648.pngg"/></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Umbra999)](https://github.com/anuraghazra/github-readme-stats)
