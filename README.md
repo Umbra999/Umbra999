@@ -1,4 +1,9 @@
 <a href="https://logout.space" target="_blank"> <img src="https://cdn.discordapp.com/attachments/855072998796296212/970318045094510612/Umbra_Github.png" alt="Umbra's Github"/></a>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=100&color=AC0000&center=true&width=1200&height=140&lines=%E2%98%A6+I+HATE+U+TOO+%E2%98%A6;%E2%98%A6+IM+UMBRA+%E2%98%A6;%E2%98%A6+IM+HERE+TO+SLEEP...+%E2%98%A6;%E2%98%A6+LET+ME+SLEEP..+PLEASE..+%E2%98%A6"></a>
+</p>
+
 ```sh-session
 pip install egirls
 ```
