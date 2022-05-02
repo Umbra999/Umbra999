@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://logout.space"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=100&color=232426&center=true&width=1200&height=140&lines=%E2%98%A6+IM+UMBRA+%E2%98%A6;%E2%98%A6+ONE+DAY+THE+SUN+GONNA+EXPLODE+%E2%98%A6;%E2%98%A6+AND+ALL+THIS+WAS+FOR+NOTHING...+%E2%98%A6"></a>
+  <a href="https://logout.space"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=100&color=232426&center=true&width=1200&height=140&lines=%E2%98%A6+IM+UMBRA+%E2%98%A6;ONE+DAY+THE+SUN+GONNA+EXPLODE..;%E2%98%A6+AND+ALL+THIS+WAS+FOR+NOTHING..."></a>
 </p>
 
 ```sh-session
