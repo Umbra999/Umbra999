@@ -16,6 +16,7 @@ pip install egirls
 <a href="https://discordapp.com/users/155552545782235137" target="_blank"> <img src="https://discord.c99.nl/widget/theme-1/155552545782235137.png"/></a>
 <a href="https://discordapp.com/users/99546079980187648" target="_blank"> <img src="https://discord.c99.nl/widget/theme-1/99546079980187648.png"/></a>
 
+<div align="center">
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=u8dmsgd7ekdc8db9kh8a5sgkw&cover_image=true&theme=natemoo-re&bar_color=bb00ff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=u8dmsgd7ekdc8db9kh8a5sgkw&redirect=true)
 
 <a href="https://logout.space" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
