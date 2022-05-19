@@ -11,6 +11,8 @@ pip install egirls
 
 </a><img src="https://github-readme-stats.vercel.app/api/top-langs?username=umbra999&count_private=true&hide=procfile&theme=dark&border_color=000000&cache_seconds=1800&layout=compact&langs_count=10&custom_title=Most Used Coding Languages" alt="umbra99" /> </p>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=u8dmsgd7ekdc8db9kh8a5sgkw&cover_image=true&theme=natemoo-re&bar_color=bb00ff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=u8dmsgd7ekdc8db9kh8a5sgkw&redirect=true)
+
 🌐・**Website: [https://logout.space](https://logout.space)** 
 
 <a href="https://discordapp.com/users/155552545782235137" target="_blank"> <img src="https://discord.c99.nl/widget/theme-1/155552545782235137.png"/></a>
