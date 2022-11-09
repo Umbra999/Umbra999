@@ -19,7 +19,4 @@ pip install egirls
   
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=u8dmsgd7ekdc8db9kh8a5sgkw&cover_image=true&theme=natemoo-re&bar_color=bb00ff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=u8dmsgd7ekdc8db9kh8a5sgkw&redirect=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Umbra999)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <a href="https://logout.space" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
