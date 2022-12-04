@@ -3,7 +3,7 @@
 </p>
 
 ```sh-session
-pip install egirls
+cd egirls
 ```
 
 <div align="center">
