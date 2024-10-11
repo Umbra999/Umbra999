@@ -17,12 +17,8 @@
   <!-- Discord Box -->
   <div style="border: 2px solid #232426; border-radius: 10px; padding: 20px; display: inline-block; width: 80%; margin-bottom: 20px; background-color: #f9f9f9;">
     <p>
-      <a href="https://discordapp.com/users/155552545782235137" target="_blank">
-        <img src="https://discord.c99.nl/widget/theme-1/155552545782235137.png" alt="Discord Profile 1">
-      </a>
-      <a href="https://discordapp.com/users/99546079980187648" target="_blank">
-        <img src="https://discord.c99.nl/widget/theme-1/99546079980187648.png" alt="Discord Profile 2">
-      </a>
+     <img src="https://discord.c99.nl/widget/theme-1/155552545782235137.png" alt="Discord Profile 1">
+     <img src="https://discord.c99.nl/widget/theme-1/99546079980187648.png" alt="Discord Profile 2">
     </p>
   </div>
 
