@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://logout.rip">
-    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=100&color=232426&center=true&width=1200&height=140&lines=%E2%98%A6+IM+UMBRA+%E2%98%A6;ONE+DAY+THE+SUN+GONNA+EXPLODE;AND+ALL+THIS+WAS+FOR+NOTHING.." alt="IM UMBRA">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=100&color=232426&center=true&width=1200&height=140&lines=%E2%98%A6+IM+UMBRA+%E2%98%A6;ONE+DAY+THE+SUN+GONNA+EXPLODE;AND+ALL+THIS+WAS+FOR+NOTHING.." alt="IM UMBRA">
 </p>
 
 <div align="center">
@@ -34,9 +32,7 @@
   <!-- Snake Contribution Graph Box -->
   <div style="border: 2px solid #232426; border-radius: 10px; padding: 20px; display: inline-block; width: 80%; margin-bottom: 20px; background-color: #f9f9f9;">
     <p>
-      <a href="https://logout.rip" target="_blank">
-        <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation">
-      </a>
+      <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation">
     </p>
   </div>
 
