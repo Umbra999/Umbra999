@@ -29,12 +29,7 @@
     </p>
   </div>
 
-  <!-- Snake Contribution Graph Box -->
-  <div style="border: 2px solid #232426; border-radius: 10px; padding: 20px; display: inline-block; width: 80%; margin-bottom: 20px; background-color: #f9f9f9;">
-    <p>
-      <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation">
-    </p>
-  </div>
+  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X61APZQ6)
 
   <hr style="border: 1px solid #232426; width: 80%; margin-top: 20px;">
 
