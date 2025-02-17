@@ -29,6 +29,7 @@
     </p>
   </div>
 
+ <!-- kofi Box -->
   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X61APZQ6)
 
   <hr style="border: 1px solid #232426; width: 80%; margin-top: 20px;">
