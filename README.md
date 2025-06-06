@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=100&color=232426&center=true&width=1200&height=140&lines=%E2%98%A6+IM+UMBRA+%E2%98%A6;ONE+DAY+THE+SUN+GONNA+EXPLODE;AND+ALL+THIS+WAS+FOR+NOTHING.." alt="IM UMBRA">
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=50&color=232426&center=true&width=1000&height=100&lines=C%2B%2B+Developer;C%23+Developer;Reverse+Engineer" alt="Typing SVG">
 </p>
 
 <div align="center">
