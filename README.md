@@ -1,9 +1,12 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=50&color=232426&center=true&width=1000&height=100&lines=C%2B%2B+Developer;C%23+Developer;Reverse+Engineer" alt="Typing SVG">
-</p>
+<h1> </h1>
+<h1 align="center">
+   <a href="#" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&color=909090&center=true&vCenter=true&width=435&lines=C%2B%2B+Developer;C%23+Developer;Reverse+Engineer" alt="Typing SVG">
+  </a>
+</h1>
 
 <div align="center">
-
+  
   <!-- Profile Stats Box -->
   <div style="border: 2px solid #232426; border-radius: 10px; padding: 20px; display: inline-block; width: 80%; margin-bottom: 20px; background-color: #f9f9f9;">
     <p>
@@ -40,5 +43,5 @@
       ⚠️ <strong>Note:</strong> Most of my repositories are private, so public activity may seem limited.
     </p>
   </div>
-
+  
 </div>
