@@ -14,23 +14,6 @@
       <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=008042&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Umbra999" alt="Total Forks">
     </p>
   </div>
-
-  <!-- Discord Box -->
-  <div style="border: 2px solid #232426; border-radius: 10px; padding: 20px; display: inline-block; width: 80%; margin-bottom: 20px; background-color: #f9f9f9;">
-    <p>
-     <img src="https://discord.c99.nl/widget/theme-1/155552545782235137.png" alt="Discord Profile 1">
-     <img src="https://discord.c99.nl/widget/theme-1/99546079980187648.png" alt="Discord Profile 2">
-    </p>
-  </div>
-
-  <!-- Spotify Box -->
-  <div style="border: 2px solid #232426; border-radius: 10px; padding: 20px; display: inline-block; width: 80%; margin-bottom: 20px; background-color: #f9f9f9;">
-    <p>
-      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=u8dmsgd7ekdc8db9kh8a5sgkw&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=u8dmsgd7ekdc8db9kh8a5sgkw&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false" alt="Spotify Profile">
-      </a>
-    </p>
-  </div>
   
   <hr style="border: 1px solid #232426; width: 80%; margin-top: 20px;">
 
