@@ -77,6 +77,6 @@ Most of my work lives in private repositories. Public activity may seem limited.
 
 ---
 
-<sub>† built from obsession, not generated from prompts †</sub>
+<sub>† built from obsession †</sub>
 
 </div>
